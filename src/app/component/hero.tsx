@@ -33,9 +33,9 @@ const Hero = () => {
 
       <div className="w-[100px] h-[2px] bg-blue-700"></div>
       <p className="mb-8 leading-relaxed">
-      I'm a skilled web developer and programmer with a flair for crafting efficient and elegant code. 
+      I am a skilled web developer and programmer with a flair for crafting efficient and elegant code. 
       My expertise lies in turning complex problems into simple, robust solutions. Staying ahead of tech trends,
-       I'm dedicated to enhancing lives and businesses through technology.
+       I am dedicated to enhancing lives and businesses through technology.
 
       </p>
       <div className="flex justify-center">

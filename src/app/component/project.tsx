@@ -30,7 +30,7 @@ const Project = () => {
               CATERING
             </h1>
             <p className="leading-relaxed line clamp-2">
-             This is the project which I've created for those who owns a
+             This is the project which I have created for those who owns a
              catering business.
             </p>
             <Link target="_blank" href={"https://catering-dun.vercel.app/"}>
@@ -55,7 +55,7 @@ const Project = () => {
               SMS
             </h1>
             <p className="leading-relaxed line clamp-2">
-             This is the project which I've created for those who owns a
+             This is the project which I have created for those who owns a
              catering business.
             </p>
             <Link target="_blank" href={"https://sms-sooty-gamma.vercel.app/"}>
@@ -79,7 +79,7 @@ const Project = () => {
               SMS
             </h1>
             <p className="leading-relaxed line clamp-2">
-             This is the project which I've created for those who owns a
+             This is the project which Ihave created for those who owns a
              catering business.
             </p>
             <Link target="_blank" href={"https://sms-sooty-gamma.vercel.app/"}>
